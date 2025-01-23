@@ -1,2 +1,2 @@
-# gunluktakvim
-Günlük Takvim Uygulaması
+# Günlük Takvim
+Günlük Takvim Uygulaması çok yakında sizlerle...
